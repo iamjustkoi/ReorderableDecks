@@ -1,0 +1,6 @@
+/manifest.json
+/package-lock.json
+/package.json
+/.ignored/
+/.build/
+/.gitignore
