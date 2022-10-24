@@ -4,7 +4,7 @@
 
 ## Installation
 
-Not publicly released yet but changes/updates can be seen [here](https://github.com/iamjustkoi/ReorderableDecks/releases).
+Not publicly released yet but changes/updates can be viewed over [here](https://github.com/iamjustkoi/ReorderableDecks/releases).
 
 [//]: # (Install from [Anki-Web]&#40;https://ankiweb.net/shared/info/__ADDON_ID__&#41;  )
 
